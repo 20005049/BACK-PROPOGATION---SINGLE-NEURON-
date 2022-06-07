@@ -4,7 +4,7 @@
 
 
 
-# <p align="center"> BACK PROPAGATION---SINGLE-NEURON-</p>
+# <p align="center"> BACK PROPAGATION SINGLE NEURON</p>
 ## AIM:
 To write a python program to perform Back Propagation with Single Neuron.
 ## Equipments Required:
